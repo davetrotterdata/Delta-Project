@@ -3,7 +3,7 @@ of April of 2022. This is basically an overview, and
 using SQL to look through the data provided (listed below).*/
 
 /* Joining three tables:
-	flights - DOT Flight Data - April 2022
+	flights - DOT Flight Data - April 2022 (https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ)
 	owner - FAA aircraft registration
 	type - FAA aircraft type*/
 
